@@ -1,5 +1,6 @@
 # 🍥Fuwari
 
+
 A static blog template built with [Astro](https://astro.build).
 
 [**🖥️ Live Demo (Vercel)**](https://fuwari.vercel.app)&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;
