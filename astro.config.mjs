@@ -61,9 +61,6 @@ export default defineConfig({
         Passed: async () => true, // https://github.com/PlayForm/Compress/issues/376
       },
     }),
-    github({
-      branch: "gh-pages", // 部署到 main 分支
-    }),
   ],
   markdown: {
     remarkPlugins: [
