@@ -63,7 +63,7 @@ export default defineConfig({
       },
     }),
     github({
-      branch: "main", // 部署到 main 分支
+      branch: "gh-pages", // 部署到 main 分支
     }),
   ],
   markdown: {
